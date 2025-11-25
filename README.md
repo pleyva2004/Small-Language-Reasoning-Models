@@ -1,2 +1,2 @@
-# Hyper-Efficient-On-Device-Small-Language-Models-for-Structured-Agentic-Workflows
+# Small LagnModels
 R&amp;D Repositories for my Research Paper
